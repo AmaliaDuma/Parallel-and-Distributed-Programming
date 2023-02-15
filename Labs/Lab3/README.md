@@ -1,0 +1,1 @@
+[Lab 3 - Simple parallel tasks](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lab-3-parallel-simple.html)
