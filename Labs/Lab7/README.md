@@ -1,0 +1,1 @@
+[Lab 7 - MPI programming](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lab-7-mpi.html)
