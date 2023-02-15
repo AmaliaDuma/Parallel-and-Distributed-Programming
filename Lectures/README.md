@@ -1,0 +1,13 @@
+## Lectures
+[Lecture 1 - Intro](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lecture-1-intro.html)  
+[Lecture 2 - Handling concurrency](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lecture-2-handling-concurrency.html)  
+[Lecture 3 - More concurrency issues](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lecture-3-more-concurrency.html)  
+[Lecture 4 - Higher level multithreading concepts](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lecture-4-higher-level-multithreading-concepts.html)  
+[Lecture 5 & 6 - Futures with continuations](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lecture-5-futures-continuations.html)  
+[Lecture 7 - Simple parallel algorithms](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lecture-7-parallel-simple.html)  
+[Lecture 7 - Parallel explore and other algorithms](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lecture-7-parallel-explore.html)  
+[Lecture 8 - Advanced parallel algorithms](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lecture-8-parallel-advanced-recursive.html)  
+[Lecture 8-9 - MPI programming](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lecture-8-mpi.html)  
+[Lecture 10 - Basic distributed protocols](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lecture-10-basic-distributed.html)  
+[Lecture 11 - Fault tolerance](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lecture-11-fault-tolerance.html)  
+[Lecture 12 - OpenCL programming](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lecture-12-opencl.html)  
