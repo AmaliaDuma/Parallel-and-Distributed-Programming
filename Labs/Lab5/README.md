@@ -1,0 +1,1 @@
+[Lab 5 - Parallelizing techniques](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lab-5-parallel-algo.html)
