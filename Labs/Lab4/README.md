@@ -1,0 +1,1 @@
+[Lab 4 - Futures and continuations](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lab-4-futures-continuations.html)
