@@ -1,0 +1,1 @@
+[Lab 6 - Parallelizing techniques (2 - parallel explore)](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lab-6-parallel-algo-2.html)
