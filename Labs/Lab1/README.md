@@ -1,0 +1,1 @@
+[Lab 1 - "Non-cooperative" multithreading](http://www.cs.ubbcluj.ro/~rlupsa/edu/pdp/lab-1-noncooperative-mt.html)
